@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_login">(es)LOG IN</string>
+    <string name="button_submit">(es)Submit</string>
+    <string name="button_device_registration">(es)Device Registration</string>
+    <string name="button_check_password">(es)Check password</string>
+    <string name="button_try_login">(es)Try Login</string>
+    <string name="button_duplicate_check">(es)Duplicate Check</string>
+    <string name="button_gift_list_confirm">(es)Gift List Confirm</string>
+    <string name="button_modify">(es)Modify</string>
+    <string name="button_register_drop_out">(es)Register Drop-out</string>
+    <string name="button_register_new_cif">(es)Register New CIF</string>
+    <string name="button_select_provided_date">(es)Select Provided Date</string>
+    <string name="button_delete_contents">(es)Delete Contents</string>
+    <string name="button_create_log_file">(es)Create Log file</string>
+    <string name="button_make_sync_data">(es)Make Sync Data</string>
+    <string name="button_sync_data">(es)Sync Data</string>
+    <string name="button_generation">(es)Generation</string>
+    <string name="button_upload_sync_data">(es)Upload Sync Data</string>
+    <string name="button_download_sync_data">(es)Download Sync Data</string>
+    <string name="button_upload">(es)Upload</string>
+
+
+
+    <string name="label_language">(es)Language</string>
+
+
+
+    <string name="message_signin_forgot_account">
+        (es)If you forgot your account?
+        Click Here
+    </string>
+
+</resources>
